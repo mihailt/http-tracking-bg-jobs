@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 import os
 from random import randint
 from datetime import datetime, timedelta

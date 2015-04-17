@@ -10,20 +10,20 @@ pip install -r requirements.txt
 
 ### Setup db
 ```
-./manage.py db upgrade
+python manage.py db upgrade
 ```
 optionally you can add some dummy data
 ```
-./manage.py init_dummy_data
+python manage.py init_dummy_data
 
 ```
 ### Run tests
 ```
-./manage.py test
+python manage.py test
 ```
 ### Run server
 ```
-./manage.py runserver
+python manage.py runserver
 ```
 ### Availiable endpoints
 
